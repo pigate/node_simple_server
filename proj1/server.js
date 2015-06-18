@@ -36,3 +36,8 @@ var server = app.listen(8081, function(){
   var port = server.address().port;
   console.log("Example app listening at http://%s:%s", host, port);
 })
+
+process.on("SIGUSR1", function(){
+  server.end();
+  process.exit(0);
+});
