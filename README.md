@@ -8,4 +8,10 @@ This will be used in the future for, say, perhaps a hadoop implementation.
 For now, we have an extremely simple data pipeline:
 
 app -> SimpleEventLogger
-           \> log_date 
+           \> log_date
+
+To keep it running, you can use forever or nohup, etc.
+
+I used nohup.
+
+sudo nohup node server.js 

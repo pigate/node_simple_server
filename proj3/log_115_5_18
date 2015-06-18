@@ -1,0 +1,19 @@
+{"time":"2015-06-18T04:39:21.258Z", "data": {"apple":"oranges"}}
+{"time":"2015-06-18T04:43:19.538Z", "data": {"apple":"oreoss"}}
+{"time":"2015-06-18T04:45:01.702Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:18:38.689Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:20:46.801Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:25:21.075Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:27:08.240Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:27:24.870Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:28:18.447Z", "data": {"apple":"wasgers"}}
+{"time":"2015-06-18T16:28:31.144Z", "data": {"tanning":"wasgers"}}
+{"time":"2015-06-18T22:44:04.534Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:46:38.980Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:50:39.252Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:50:45.008Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:56:26.274Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:56:39.215Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:56:41.017Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T22:59:37.596Z", "data": {"event":"press_button","duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}
+{"time":"2015-06-18T23:09:21.425Z", "data": {"duid":"6b369e0b80a6e9ec3190a9ecb81c49d011fb64e2","deviceModel":"Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz (16287 MB)","deviceName":"MACBOOK","operatingSystem":"Windows 8.1  (6.3.9600) 64bit","systemMemorySize":"16287","ip":"10.134.213.239","externalip":"UNASSIGNED_SYSTEM_ADDRESS"}}

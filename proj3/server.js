@@ -13,18 +13,19 @@ app.get('/', function(req, res){
 });
 
 app.post('/', function(req, res){
-  res.send('POST');
-  /*var firstname = req.body.first_name,
-      lastname = req.body.last_name;
-  */
   console.log(req.body);
   var date = new Date();
   var s = '{"time":"' + date.toISOString() + '", "data": ' + JSON.stringify(req.body) + '}\n';
   var fname = 'log_'+date.getYear() + '_' + date.getMonth() + '_' + date.getDate(); 
   fs.appendFile(fname, s);
+  var body = 'OK. hello';
+  if (!res.headersSent)
+    res.writeHead(200, {'Content-Length':body.length,'Content-Type':'text/plain'});
+  res.end(body);
+  //res.send('POST received');
 });
 
-var server = app.listen(3000, function(){
+var server = app.listen(80, function(){
   var host = server.address().address;
   var port = server.address().port;
 });
